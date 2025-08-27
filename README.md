@@ -45,26 +45,17 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 ## **Screenshots / GIFs:**  
  
 ### Emotion-based Animations
-- Happy animation:  
-![Happy Animation](media/happy.gif)  
-- Sad animation:  
-![Sad Animation](media/sad.gif)  
-- Neutral animation:  
-![Neutral Animation](media/neutral.gif)  
-- Happy voice input demo:  
-![Voice Input - Happy](media/voice_happy.gif)  
+- [![Happy Animation](happy.gif)](happy.gif){:width="300px"}  
+- [![Sad Animation](sad.gif)](sad.gif){:width="300px"}  
+- [![Neutral Animation](neutral.gif)](neutral.gif){:width="300px"}  
+- [![VoiceInput Animation](voiceinput.gif)](voiceinput.gif){:width="300px"}  
 
 ### Gesture Recognition (Screenshots)
-- Thumbs Up:  
-![Thumbs Up](media/thumbsup.png)  
-- Victory:  
-![Victory](media/victory.png)  
-- Open Palm:  
-![Open Palm](media/openpalm.png)  
-- Fist:  
-![Fist](media/fist.png)  
-- No Gesture Detected:  
-![No Gesture](media/nogesture.png)  
+- [![Thumbs Up](media/thumbsup_screenshot.png)](media/thumbsup_screenshot.png){:width="400px"}  
+- [![Victory](media/victory_screenshot.png)](media/victory_screenshot.png){:width="400px"}  
+- [![Open Palm](media/openpalm_screenshot.png)](media/openpalm_screenshot.png){:width="400px"}  
+- [![Fist](media/fist_screenshot.png)](media/fist_screenshot.png){:width="400px"}  
+- [![No Gesture Detected](media/nogesture_screenshot.png)](media/nogesture_screenshot.png){:width="400px"}  
 
 ---
 
