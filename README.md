@@ -45,13 +45,21 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 ## **Screenshots / GIFs:**  
  
 ### Emotion-based Animations
-- [![Happy Animation](happy.gif)](happy.gif){:width="300px"}  
-- [![Sad Animation](sad.gif)](sad.gif){:width="300px"}  
-- [![Neutral Animation](neutral.gif)](neutral.gif){:width="300px"}  
-- [![VoiceInput Animation](voiceinput.gif)](voiceinput.gif){:width="300px"}  
+<img src="happy.gif" width="600px" alt="Happy Animation"/><br>
+
+
+<img src="sad.gif" width="600px" alt="Sad Animation"/><br>
+
+<img src="neutral.gif" width="600px" alt="Neutral Animation"/><br>
+
+<img src="voiceinput.gif" width="600px" alt="Voice Input Animation"/>
+
 
 ### Gesture Recognition (Screenshots)
-- [![Victory](victory1.png)](victory1.png){:width="300px"}  
+<img src="victory1.png" width="600px" alt="Victory"/>
+
+Other gesture screenshots (Thumbs Up, Open Palm, Fist, No Gesture) are available in GESTURES.md
+
 
 
 ---
