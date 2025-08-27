@@ -41,6 +41,19 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 - Full conversation displayed as **text on screen**  
 
 ---
+## 🏆 Achievement of Aim and Objectives  
+
+The project successfully met its aim of creating a virtual humanoid agent capable of emotionally intelligent interaction through multimodal inputs and dynamic visual feedback.  
+
+### Key Achievements  
+- 📚 Conducted literature review to build a strong theoretical foundation.  
+- 🤖 Developed a conversational agent with **RASA** for intent recognition and dialogue flow.  
+- 🎭 Integrated **VADER sentiment analysis** for emotion-aware responses.  
+- ✋ Implemented **gesture recognition** with MediaPipe + OpenCV for hands-free interaction.  
+- 🎤 Enabled natural communication using **speech-to-text** and **text-to-speech**.  
+- 🧑‍🎨 Visualized emotional states with expressive **3D humanoid GLB models**.  
+- 💻 Built a **responsive front-end** for seamless control and interaction.  
+- ✅ Validated the system through testing and user interaction, showing effective emotional responsiveness and engagement.  
 
 ## **Screenshots / GIFs:**  
  
