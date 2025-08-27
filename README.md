@@ -47,7 +47,6 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 ### Emotion-based Animations
 <img src="happy.gif" width="600px" alt="Happy Animation"/><br>
 
-
 <img src="sad.gif" width="600px" alt="Sad Animation"/><br>
 
 <img src="neutral.gif" width="600px" alt="Neutral Animation"/><br>
@@ -56,11 +55,11 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 
 
 ### Gesture Recognition (Screenshots)
-<img src="victory1.png" width="600px" alt="Victory"/>
+<img src="victory1.png" width="600px" alt="Victory"/> 
 
-Other gesture screenshots (Thumbs Up, Open Palm, Fist, No Gesture) are available in GESTURES.md
+<img src="thumbsup.png" width="600px" alt="Thumbs Up"/>
 
-
+Remaining gestures (Open Palm, Fist, No Gesture Detected) and full robot interactions are demonstrated in the YouTube demo video: Watch Demo
 
 ---
 
