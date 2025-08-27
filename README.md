@@ -51,11 +51,8 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 - [![VoiceInput Animation](voiceinput.gif)](voiceinput.gif){:width="300px"}  
 
 ### Gesture Recognition (Screenshots)
-- [![Thumbs Up](media/thumbsup_screenshot.png)](media/thumbsup_screenshot.png){:width="400px"}  
-- [![Victory](media/victory_screenshot.png)](media/victory_screenshot.png){:width="400px"}  
-- [![Open Palm](media/openpalm_screenshot.png)](media/openpalm_screenshot.png){:width="400px"}  
-- [![Fist](media/fist_screenshot.png)](media/fist_screenshot.png){:width="400px"}  
-- [![No Gesture Detected](media/nogesture_screenshot.png)](media/nogesture_screenshot.png){:width="400px"}  
+- [![Victory](media/victory.png)](media/victory.png){:width="300px"}  
+
 
 ---
 
