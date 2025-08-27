@@ -46,25 +46,25 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
  
 ### Emotion-based Animations
 - Happy animation:  
-![Happy Animation](path/to/happy.gif)  
+![Happy Animation](media/happy.gif)  
 - Sad animation:  
-![Sad Animation](path/to/sad.gif)  
+![Sad Animation](media/sad.gif)  
 - Neutral animation:  
-![Neutral Animation](path/to/neutral.gif)  
+![Neutral Animation](media/neutral.gif)  
 - Happy voice input demo:  
-![Voice Input - Happy](path/to/voice_happy.gif)  
+![Voice Input - Happy](media/voice_happy.gif)  
 
 ### Gesture Recognition (Screenshots)
 - Thumbs Up:  
-![Thumbs Up](path/to/thumbsup_screenshot.png)  
+![Thumbs Up](media/thumbsup.png)  
 - Victory:  
-![Victory](path/to/victory_screenshot.png)  
+![Victory](media/victory.png)  
 - Open Palm:  
-![Open Palm](path/to/openpalm_screenshot.png)  
+![Open Palm](media/openpalm.png)  
 - Fist:  
-![Fist](path/to/fist_screenshot.png)  
+![Fist](media/fist.png)  
 - No Gesture Detected:  
-![No Gesture](path/to/nogesture_screenshot.png)  
+![No Gesture](media/nogesture.png)  
 
 ---
 
