@@ -11,7 +11,7 @@ The project demonstrates **multimodal AI, NLP, sentiment analysis, computer visi
 ---
 
 ## **Demo Video:**  
-🎥 Watch the robot in action: [YouTube Demo Video]  
+🎥 Watch the robot in action: [YouTube Demo Video]https://youtu.be/LbdrTE5INro  
 
 ---
 
